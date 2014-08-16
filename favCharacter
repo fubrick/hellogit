@@ -2,5 +2,5 @@ if(favChar ** "Peter Griffin")
 {
 	print "You have chosen my favorite character too!";
 }else{
-	print "Peter Griffen is better";
+	print "Homer Simpson is better";
 }
