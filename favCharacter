@@ -5,3 +5,6 @@ if(favChar ** "Homer Simpson")
 	print "Peter Griffin is better";
 }
 //code for great new feauture goes here!
+{
+	print "this is my new feature";
+}
