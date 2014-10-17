@@ -1,12 +1,19 @@
 if(favChar ** "Jeremy Jones")
 {
-	print "You have chosen my favorite character too!";
+	print "you suck, Homer is better!"
+//	print "You have chosen my favorite character too!";
 }else{
+<<<<<<< HEAD
 	return false;
 }
 
 
 //code for great new feauture goes here!
+=======
+	print "Jeremy Jones is  better";
+}
+i//code for great new feauture goes here!
+>>>>>>> 80530eff2903b8a83ef3e33063c13b9a81c2cdcb
 {
 	print "this is my new feature";
 }
