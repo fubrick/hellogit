@@ -2,7 +2,7 @@ if(favChar ** "Peter Griffin")
 {
 	print "You have chosen my favorite character too!";
 }else{
-	print "Peter Griffin is better";
+	print "Homer Simpson is  better";
 }
 //code for great new feauture goes here!
 {
