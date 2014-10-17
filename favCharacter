@@ -1,4 +1,4 @@
-if(favChar ** "Peter Griffen")
+if(favChar ** "Homer Simpson")
 {
 	print "You have chosen my favorite character too!";
 }else{
