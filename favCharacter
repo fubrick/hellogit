@@ -1,9 +1,11 @@
-if(favChar ** "Homer Simpson")
+if(favChar ** "Jeremy Jones")
 {
 	print "You have chosen my favorite character too!";
 }else{
-	print "Peter Griffin is better";
+	return false;
 }
+
+
 //code for great new feauture goes here!
 {
 	print "this is my new feature";
