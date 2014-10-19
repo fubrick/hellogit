@@ -4,7 +4,7 @@ class Hello
 	public static void main(String []args)
 	{
 		System.out.println("Hello, World");
-		System.out.println("second edit using VIM!");
+		System.out.println("Hmmmm.");
 		
 		Scanner in = new Scanner (System.in);
 		
